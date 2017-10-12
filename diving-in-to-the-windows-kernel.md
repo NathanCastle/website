@@ -1,4 +1,4 @@
-# Diving into the Windows NT Kernl
+# Diving into the Windows NT Kernel
 
 > Originally published on 10/21/2016
 
