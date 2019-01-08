@@ -13,3 +13,14 @@ In a few of my past attempts to learn a new framework or technology, I've skippe
 ### Thoughts, discoveries, notes
 
 * I've used NPM before but had never heard of `npx`. It can execute as well as retrieve packages, so you can type `npx create-react-app app` to create a react app without installing - all one line. 
+* `npm start` looks at scripts in package.json. Use of `start` appears to be by convention.
+* React components get passed a `this.props` object with any properties passed as parameters in html.
+    * Components return a hierarchy of views via `render`.
+* Use `this.state` to store component state
+    * Use setState to modify state (why not just a plain dictionary?)
+* 'Controlled components' don't maintain state - fully owned by another component
+* `Slice` creates a copy of an array for editing
+  * **Immutability** seems to be pretty big. Better to copy->change->replace than directly edit. Makes it easier to implement undo/redo and easier to detect changes/when to re-render
+* **Function components** only have a render method, no state; main benefit is easier to write
+* Arrow functions appear to pass `this` to their contents
+* React uses keys to know how to update lists (otherwise it has to re-render)
