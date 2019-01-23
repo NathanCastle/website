@@ -1,4 +1,4 @@
-# Daily journal
+# Daily Journal
 
 I've decided to start a journey to reinvigorate my technical skills. 
 
@@ -6,11 +6,11 @@ Day 1.
 
 I think its time to learn React. Increasingly I find myself in need of things that could be really great simple web apps. Also, Esri does a lot of work with web, so this could be a great opportunity to explore more of the stack. 
 
-## Getting started
+## Getting Started
 
 In a few of my past attempts to learn a new framework or technology, I've skipped over the doc and started with blogs. Having worked on doc and samples for almost two years, I think I owe it to the authors to give the traditional approach a try. I'm starting with the React tutorial tonight. 
 
-### Thoughts, discoveries, notes
+### Thoughts, Discoveries, Notes
 
 * I've used NPM before but had never heard of `npx`. It can execute as well as retrieve packages, so you can type `npx create-react-app app` to create a react app without installing - all one line. 
 * `npm start` looks at scripts in package.json. Use of `start` appears to be by convention.
