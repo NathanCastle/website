@@ -1,6 +1,14 @@
-## Welcome to my website
+# About Nathan Castle
 
+People-oriented software engineer with a passion for using scrum and agile methodology to produce great software.
 
+Seeking a position at a company where I can commit myself 100% to the mission by delivering great software with a team, as engineer and servant-leader.
+
+Open to relocation: San Diego, LA, NYC, Boston, Seattle, Austin
+
+My values: respect, trust, honesty, and integrity; people come first
+
+In my free time, you'll find me exploring restaurants in SoCal, optimizing my home automation, or reading.
 
 ### Projects
 
