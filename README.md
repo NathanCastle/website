@@ -38,7 +38,7 @@ June 2015 - December 2015
 
 ### Director of Services, RIT Student Government
 
-September 2015 - June 2016
+September 2014 - May 2015
 
 * Led a team of student employees to develop and deploy production apps serving thousands of users
 
