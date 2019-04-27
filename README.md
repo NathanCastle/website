@@ -2,7 +2,7 @@
 
 People-oriented software engineer with a passion for using scrum and agile methodology to produce great software.
 
-Seeking a position at a company where I can commit myself 100% to the mission by delivering great software with a team, as engineer and servant-leader.
+I love working at companiss where I can commit myself 100% to the mission by delivering great software with a team, as engineer and servant-leader.
 
 Open to relocation: San Diego, LA, NYC, Boston, Seattle, Austin
 
