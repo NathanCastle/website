@@ -2,19 +2,23 @@
 
 People-oriented software engineer with a passion for using scrum and agile methodology to produce great software.
 
-I love working at companiss where I can commit myself 100% to the mission by delivering great software with a team, as engineer and servant-leader.
+Currently located in Portland, OR.
 
-Open to relocation: San Diego, LA, NYC, Boston, Seattle, Austin
-
-My values: respect, trust, honesty, and integrity; people come first
-
-In my free time, you'll find me exploring restaurants in SoCal, optimizing my home automation, or reading.
+In my free time, you'll find me exploring the city, working on cool software, building geospatial applications, and building engagement with local government.
 
 ## Experience
 
 ### Product Engineer @ Esri
 June 2017 - Present
 
+* .NET Engineer for the Open Source Apps team
+    * Modernized Indoor Routing Xamarin with a new floating panel UI, with support for dark mode and a broad range of iOS devices, including iPad.
+    * Updated Maps App (Xamarin.Forms) with new features, including support for dark mode
+    * Built a new responsive UI for Data Collection for .NET, targeting both UWP and WPF
+* Scrum Master & Product Engineer for the Augmented Reality feature team
+    * Facilitated team's successful productization of Augmented Reality support for ArcGIS Runtime
+    * Produced guide doc: https://developers.arcgis.com/net/latest/android/guide/display-scenes-in-augmented-reality.htm
+    * Produced samples: https://developers.arcgis.com/net/latest/ios/sample-code/navigate-in-ar/
 * Scrum Master for the WFS feature team
     * Worked with teammates to resolve interpersonal conflicts
     * Introduced new techniques to facilitate agile development through scrum, including pair programming
@@ -22,7 +26,7 @@ June 2017 - Present
 * Wrote sample applications demonstrating GIS functionality for WPF, UWP, Xamarin.Forms, Xamarin Android, and Xamarin iOS
 * Wrote documentation for the ArcGIS Runtime SDK on developers.arcgis.com
 * Initiated and led the ArcGIS Runtime SDK video effort, producing three videos start-to-finish
-    * Documented the entire process to enable other doc authors to produce videos
+    * Documented the process to enable other doc authors to produce videos
 
 ### Product Manager Intern @ RIT ITS
 June 2016 - August 2016
@@ -49,12 +53,6 @@ September 2014 - May 2015
 * Certified Scrum Master, October 2018
 * iOS Essentials Bootcamp, Big Nerd Ranch, August 2018
 * Computer Science, Rochester Institute of Technology, 2013-2017
-
-### Buzzwords for Bots
-
-* Leadership, scrum, agile, XP, TDD, CI, CD, continuous improvement
-* C#, XML, JSON, WPF, MVVM, Xamarin, .NET, Markdown, JavaScript, iOS, UWP
-* Crucial Conversations, Crucial Accountability
 
 ## Other Stuff
 
